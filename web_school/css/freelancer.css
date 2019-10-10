@@ -203,6 +203,8 @@ header.masthead h2 {
   display: block;
   max-width: 25rem;
   margin-bottom: 15px;
+  border-color: rgba(24, 188, 156, 0.9);
+  border-style: double;
 }
 
 .portfolio .portfolio-item .portfolio-item-caption {
@@ -377,4 +379,10 @@ a:focus, a:hover, a:active {
 .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
   background-color: #1a252f;
   border-color: #1a252f;
+}
+
+.insider-img{
+  border-color: rgba(24, 188, 156, 0.9);
+  border-style: solid;
+  border-width: 1px;
 }
